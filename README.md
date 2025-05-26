@@ -156,11 +156,17 @@ plt.close()
 ```
 ## Output:
 ![image](https://github.com/user-attachments/assets/72d883de-fc71-479c-9921-6e1c6eee96d8)
+
 ![image](https://github.com/user-attachments/assets/a488c23e-1a84-43b7-99cb-7d7eb46e048d)
+
 ![image](https://github.com/user-attachments/assets/d8b28afd-30df-4cc2-aa7c-8fcb1a1c9b13)
+
 ![image](https://github.com/user-attachments/assets/2507054c-be2f-4722-a1fc-e8d00e1c4e1c)
+
 ![image](https://github.com/user-attachments/assets/accd57bf-7ba2-45f2-936b-58455339d3f4)
+
 ![image](https://github.com/user-attachments/assets/acde2ca0-2f79-413f-b618-75cdfd56c255)
+
 ![image](https://github.com/user-attachments/assets/8a814ebe-88db-4531-8268-92cc71305c95)
 
 ## Result:
